@@ -2,8 +2,13 @@
 
 Clean, elegant, project-based cv template for cs students seeking intern / new grad jobs.
 
-Result: 35+ Online Assessments Received (Top Tier among Peers) including Amazon, HRT, Citadel, Databricks, Meta, TikTok etc
+Result: 
 
+### Online Assessments Received
+
+35+ Online Assessments Received. Top Tier among Peers
+
+Companies including Amazon, HRT, Citadel, Databricks, Meta, TikTok, etc.
 
 > <details><summary>[Screenshot] <b>Selected Online Assessments</b> Received by using this Resume </summary>
 > 
