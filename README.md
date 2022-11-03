@@ -6,12 +6,12 @@ Clean, elegant, project-based cv template for cs students seeking intern / new g
 
 **35+** Online Assessments Received. 
 
-Top Tier among Peers
+Top Tier among Peers.
 
 Companies including Amazon, HRT, Citadel, Databricks, Meta, TikTok, etc.
 
 > <details><summary><b>Selected Online Assessments</b> Received by using this Resume </summary>
-> 
+>
 >> <b>Amazon</b>
 >>
 >> Software Engineer Intern
@@ -251,6 +251,7 @@ Companies including Amazon, HRT, Citadel, Databricks, Meta, TikTok, etc.
 >>
 >> ![image](https://raw.githubusercontent.com/ianliuy/TuChuang/master/blog/sig%20oa2.jpg)
 >
+
 
 ### View Online
 
