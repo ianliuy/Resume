@@ -45,7 +45,7 @@ Companies including Amazon, HRT, Citadel, Databricks, Meta, TikTok, etc.
 >>
 >>> <details><summary> Q&A: </summary>
 >>>
->>>> <b>Why you didn't receive SDE position?</b>
+>>>> <b>Why didn't you receive SDE position?</b>
 >>>>
 >>>> That's a question I want to know, too!
 >>>>
@@ -64,7 +64,79 @@ Companies including Amazon, HRT, Citadel, Databricks, Meta, TikTok, etc.
 >> <details><summary><b>Citadel</b></summary>
 >>> 
 >
->> <details><summary><b>DRW</b></summary>
+>> <details><summary><b>Duolingo</b></summary>
+>>> 
+>
+>> <details><summary><b>WeRide</b></summary>
+>>> 
+>
+>> <details><summary><b>Databricks</b></summary>
+>>> 
+>
+>> <details><summary><b>Quora</b></summary>
+>>> 
+>
+>> <details><summary><b>Samsara</b></summary>
+>>> 
+>
+>> <details><summary><b>MathWorks</b></summary>
+>>> 
+>
+>> <details><summary><b>Nuro ai</b></summary>
+>>> 
+>
+>> <details><summary><b>Barclays</b></summary>
+>>> 
+>
+>> <details><summary><b>Instabase</b></summary>
+>>> 
+>
+>> <details><summary><b>JPMC</b></summary>
+>>> 
+>
+>> <details><summary><b>IMC</b></summary>
+>>> 
+>
+>> <details><summary><b>Goldman Sachs</b></summary>
+>>> 
+>
+>> <details><summary><b>Prudential</b></summary>
+>>> 
+>
+>> <details><summary><b>Pimco</b></summary>
+>>> 
+>
+>> <details><summary><b>PwC</b></summary>
+>>> 
+>
+>> <details><summary><b>Unilever</b></summary>
+>>> 
+>
+>> <details><summary><b>Okta</b></summary>
+>>> 
+>
+>> <details><summary><b>Discovery</b></summary>
+>>> 
+>
+>> <details><summary><b>Robinhood</b></summary>
+>>> 
+>
+>> <details><summary><b>Salesforce</b></summary>
+>>> 
+>
+>> <details><summary><b>Okta</b></summary>
+>>> 
+>
+>> <details><summary><b>Riot</b></summary>
+>>> 
+>
+>> <details><summary><b>Instabase</b></summary>
+>>> 
+>
+>> <details><summary><b>BCG</b></summary>
+>>> 
+>
+>> <details><summary><b>Duolingo</b></summary>
 >>> 
 
 ----
