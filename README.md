@@ -6,9 +6,9 @@ Clean, elegant, project-based cv template for cs students seeking intern / new g
 
 **35+** Online Assessments Received. 
 
-One of the Intern Job Seekers who got the most Online Aessessments among their Peers.
+One of Top Performers among Peers.
 
-Companies including Amazon, HRT, Citadel, Databricks, Meta, TikTok, etc.
+Companies including **Amazon**, **TikTok**, **HRT**, **Citadel**, **Databricks**, **Meta**, etc.
 
 > <details><summary><b>Selected Online Assessments</b> Received by using this Resume </summary>
 >
