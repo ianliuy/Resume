@@ -2,29 +2,28 @@
 
 Clean, elegant, project-based cv template for cs students seeking intern / new grad jobs.
 
-Result: 
-
+----
 ### Online Assessments Received
 
 35+ Online Assessments Received. Top Tier among Peers
 
 Companies including Amazon, HRT, Citadel, Databricks, Meta, TikTok, etc.
 
-> <details><summary>[Screenshot] <b>Selected Online Assessments</b> Received by using this Resume </summary>
+> <details><summary><b>Selected Online Assessments</b> Received by using this Resume </summary>
 > 
->> Amazon
+>> <b>Amazon</b>
 >>
 >> Software Engineer Intern
 >>
 >> ![](https://raw.githubusercontent.com/ianliuy/TuChuang/master/blog/amzn%20oa.jpg)
 > 
->> TikTok
+>> <b>TikTok</b>
 >> <details><summary> Software Engineer Intern </summary>
 >>
 >> ![](https://raw.githubusercontent.com/ianliuy/TuChuang/master/blog/tiktok%20oa.jpg)
 >>
 > 
->> <details><summary>Meta </summary>
+>> <details><summary><b>Meta </b></summary>
 >>
 >>> <details><summary>Enterprise Engineer Intern (aka SDE in EE org) </summary>
 >>>
@@ -54,33 +53,19 @@ Companies including Amazon, HRT, Citadel, Databricks, Meta, TikTok, etc.
 >>>> Obviously, I know some tricks :)
 >>>
 >
->> <details><summary>Hudson River Trading</summary>
+>> <details><summary><b>Hudson River Trading</b></summary>
 >>> 
 >
->> <details><summary>Optiver</summary>
+>> <details><summary><b>Optiver</b></summary>
 >>> 
 >
->> <details><summary>Citadel</summary>
+>> <details><summary><b>Citadel</b></summary>
 >>> 
 >
->> <details><summary>DRW</summary>
->>> 
->
->> <details><summary>Akuna Capital</summary>
->>> 
->
->> <details><summary>Akuna Capital</summary>
->>> 
->
->> <details><summary>Akuna Capital</summary>
->>> 
->
->> <details><summary>Akuna Capital</summary>
->>> 
->
->> <details><summary>Akuna Capital</summary>
+>> <details><summary><b>DRW</b></summary>
 >>> 
 
+----
 
 
 
