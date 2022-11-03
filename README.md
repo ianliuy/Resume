@@ -5,7 +5,9 @@ Clean, elegant, project-based cv template for cs students seeking intern / new g
 ----
 ### Online Assessments Received
 
-35+ Online Assessments Received. Top Tier among Peers
+**35+** Online Assessments Received. 
+
+Top Tier among Peers
 
 Companies including Amazon, HRT, Citadel, Databricks, Meta, TikTok, etc.
 
