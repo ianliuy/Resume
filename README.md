@@ -2,14 +2,6 @@
 
 Clean, elegant, project-based cv template for cs students seeking intern / new grad jobs.
 
-### Result
-
-**35+** Online Assessments Received. 
-
-One of Top Performers among Peers.
-
-Companies including **Amazon**, **TikTok**, **HRT**, **Citadel**, **Databricks**, **Meta**, etc.
-
 > <details><summary><b>Selected Online Assessments</b> Received by using this Resume </summary>
 >
 >> <b>Amazon</b>
@@ -252,6 +244,13 @@ Companies including **Amazon**, **TikTok**, **HRT**, **Citadel**, **Databricks**
 >> ![image](https://raw.githubusercontent.com/ianliuy/TuChuang/master/blog/sig%20oa2.jpg)
 >
 
+### Result
+
+**35+** Online Assessments Received. 
+
+One of Top Performers among Peers.
+
+Companies including **Amazon**, **TikTok**, **HRT**, **Citadel**, **Databricks**, **Meta**, etc.
 
 ### View Online
 
