@@ -2,21 +2,22 @@
 
 Clean, elegant, project-based cv template for cs students seeking intern / new grad jobs.
 
-> <details><summary><b>Selected Online Assessments</b> Received by using this Resume </summary>
+> <b>Amazon Web Services (AWS)</b>
 >
->> <b>Amazon</b>
->>
->> Software Engineer Intern
+>> <details><summary>Software Engineer Intern</b></summary>
 >>
 >> ![](https://raw.githubusercontent.com/ianliuy/TuChuang/master/blog/amzn%20oa.jpg)
-> 
->> <b>TikTok</b>
+>>
+>
+> <b>TikTok</b>
+>
 >> <details><summary> Software Engineer Intern </summary>
 >>
 >> ![](https://raw.githubusercontent.com/ianliuy/TuChuang/master/blog/tiktok%20oa.jpg)
->>
+>
+> <details><summary><b>Selected Other Online Assessments</b> received by using this CV</summary>
 > 
->> <details><summary><b>Meta </b></summary>
+>> <b>Meta </b>
 >>
 >>> <details><summary>Enterprise Engineer Intern (aka SDE in EE org) </summary>
 >>>
@@ -29,7 +30,7 @@ Clean, elegant, project-based cv template for cs students seeking intern / new g
 >>> <details><summary>Pruduction Engineer Intern - from another hr </summary>
 >>>
 >>> ![](https://raw.githubusercontent.com/ianliuy/TuChuang/master/blog/meta%20pe%202.jpg)
->> 
+>>
 >>> <details><summary>Data Center Systems Engineer Intern </summary>
 >>>
 >>> ![](https://raw.githubusercontent.com/ianliuy/TuChuang/master/blog/meta%20data%20center%20system%20intern.jpg)
