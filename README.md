@@ -47,7 +47,7 @@ Clean, elegant, project-based cv template for cs students seeking intern / new g
 >>>> Obviously, I know some tricks :)
 >>>
 >
->> <details><summary><b>Akuna Capital </b></summary>
+>> <details><summary><b>Akuna Capital</b></summary>
 >>
 >>> <details><summary>Quant Develoepr </summary>
 >>>
@@ -65,7 +65,7 @@ Clean, elegant, project-based cv template for cs students seeking intern / new g
 >>>
 >>> ![image](https://raw.githubusercontent.com/ianliuy/TuChuang/master/blog/akuna%20web%20dev%20oa.jpg)
 >
->> <details><summary><b>Hudson River Trading</b></summary>
+>> <details><summary><b>Hudson River Trading (HRT)</b></summary>
 >>
 >> Software Engineer Intern
 >>
@@ -159,14 +159,14 @@ Clean, elegant, project-based cv template for cs students seeking intern / new g
 >>
 >> ![image](https://raw.githubusercontent.com/ianliuy/TuChuang/master/blog/instabase%20oa.jpg)
 >
->> <details><summary><b>JPMC</b></summary>
+>> <details><summary><b>JPMorgan Chase (JPMC)</b></summary>
 >>
 >> Software Engineer Program - Summer Internship
 >>
 >> ![image](https://raw.githubusercontent.com/ianliuy/TuChuang/master/blog/jpmc%20oa.jpg)
 >>
 >
->> <details><summary><b>IMC</b></summary>
+>> <details><summary><b>IMC Trading</b></summary>
 >>
 >> Software Engineer Intern
 >>
@@ -178,7 +178,7 @@ Clean, elegant, project-based cv template for cs students seeking intern / new g
 >>
 >> ![image](https://raw.githubusercontent.com/ianliuy/TuChuang/master/blog/gs%20oa.jpg)
 >
->> <details><summary><b>Prudential</b></summary>
+>> <details><summary><b>Prudential Financial</b></summary>
 >>
 >> Software Engineer Intern
 >>
@@ -190,7 +190,7 @@ Clean, elegant, project-based cv template for cs students seeking intern / new g
 >>
 >> ![](https://raw.githubusercontent.com/ianliuy/TuChuang/master/blog/pimco%20oa.jpg)
 >
->> <details><summary><b>PwC</b></summary>
+>> <details><summary><b>PricewaterhouseCoopers (PwC)</b></summary>
 >>
 >> Technology Consulting Intern
 >>
@@ -230,7 +230,7 @@ Clean, elegant, project-based cv template for cs students seeking intern / new g
 >>
 >> ![image](https://raw.githubusercontent.com/ianliuy/TuChuang/master/blog/riot%20oa2.jpg)
 >
->> <details><summary><b>BCG</b></summary>
+>> <details><summary><b>Boston Consulting Group (BCG)</b></summary>
 >>
 >> Full-time Associate or Summer Associate Internship
 >>
