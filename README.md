@@ -4,7 +4,7 @@ Clean, elegant, project-based cv template for cs students seeking intern / new g
 
 > <b>Amazon Web Services (AWS)</b>
 >
->> <details><summary>Software Engineer Intern</b></summary>
+>> Software Engineer Intern
 >>
 >> ![](https://raw.githubusercontent.com/ianliuy/TuChuang/master/blog/amzn%20oa.jpg)
 >>
@@ -15,15 +15,15 @@ Clean, elegant, project-based cv template for cs students seeking intern / new g
 >>
 >> ![](https://raw.githubusercontent.com/ianliuy/TuChuang/master/blog/tiktok%20oa.jpg)
 >
-> <details><summary><b>Selected Other Online Assessments</b> received by using this CV</summary>
+> <details><summary><b>Selected</b> Other Online Assessments received</summary>
 > 
 >> <b>Meta </b>
 >>
->>> <details><summary>Enterprise Engineer Intern (aka SDE in EE org) </summary>
+>>> <details><summary>Enterprise Engineer Intern</summary>
 >>>
 >>> ![](https://raw.githubusercontent.com/ianliuy/TuChuang/master/blog/meta%20ee.jpg)
 >> 
->>> <details><summary>Pruduction Engineer Intern (aka SRE) </summary>
+>>> <details><summary>Pruduction Engineer Intern</summary>
 >>>
 >>> ![](https://raw.githubusercontent.com/ianliuy/TuChuang/master/blog/meta%20pe.jpg)
 >> 
